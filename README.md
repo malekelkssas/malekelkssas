@@ -2,9 +2,13 @@
 
 # 💫 About Me:
 💻 I’m currently working as a freelancer. <br>
-🚀 Currently working on an [AI agent platform](https://www.upwork.com/freelancers/~015acda9682670c3cc?p=1873654941588807680) using Next.js, Supabase, and external APIs.<br>
+🚀 Currently building **AI-powered platforms** for automation and customer engagement:  
+   - [**Infernix**](https://infernix.ai/) – An AI-driven platform providing **phone agents**, **web chat agents**, and other AI-powered automation features (such as automated responses), built with Next.js, Supabase, OpenAI, Langchain, and external APIs.<br>
+   - [**Dayfai**](https://dayfai.com/) – A **WhatsApp AI chatbot** platform powered by Node.js, MongoDB, Next.js, OpenAI, Langchain, and external APIs.<br>
+
 🤝 Open to collaborating on MERN stack, Next.js, and AI-powered solutions.<br>
 🌱 Currently learning DevOps, cloud technologies, and AI-powered solutions with Langchain.<br>
+
 
 ## 🚀 My Strengths:
 ⚡ **Fast Learner & Adaptive** – I quickly adapt to new tech stacks, best practices, and project conventions.<br>
