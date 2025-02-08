@@ -2,8 +2,14 @@
 
 # 💫 About Me:
 💻 I’m currently working as a freelancer. <br>
-🚀 Currently working on an [AI agent platform](https://www.upwork.com/freelancers/~015acda9682670c3cc?p=1873654941588807680) using Next.js, Supabase, and external APIs.<br>🤝 Open to collaborating on MERN stack, Next.js, and AI-powered solutions.<br>🌱 Currently learning DevOps and cloud technologies.
+🚀 Currently working on an [AI agent platform](https://www.upwork.com/freelancers/~015acda9682670c3cc?p=1873654941588807680) using Next.js, Supabase, and external APIs.<br>
+🤝 Open to collaborating on MERN stack, Next.js, and AI-powered solutions.<br>
+🌱 Currently learning DevOps, cloud technologies, and AI-powered solutions with Langchain.<br>
 
+## 🚀 My Strengths:
+⚡ **Fast Learner & Adaptive** – I quickly adapt to new tech stacks, best practices, and project conventions.<br>
+🐞 **Bug Hunter** – Debugging is one of my strongest skills, allowing me to identify and resolve issues efficiently.<br>
+🏢 **Startup Builder** – I’ve helped launch and develop three startups and continue to support new ventures.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/malek-elkssas-003846227) 
