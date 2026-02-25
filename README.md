@@ -1,11 +1,8 @@
 ## Hi there 👋
 
 # 💫 About Me:
-💻 I’m currently working as a freelancer. <br>
-🚀 Currently building **AI-powered platforms** for automation and customer engagement:  
-   - [**Infernix**](https://infernix.ai/) – An AI-driven platform providing **phone agents**, **web chat agents**, and other AI-powered automation features (such as automated responses), built with Next.js, Supabase, OpenAI, Langchain, and external APIs.<br>
-   - [**Dayfai**](https://dayfai.com/) – A **WhatsApp AI chatbot** platform powered by Node.js, MongoDB, Next.js, OpenAI, Langchain, and external APIs.<br>
-
+💻 Currently working as a **freelancer & part-timer**. <br>
+🚀 Currently building **AI-powered platforms** for automation and **integrations with Learning Management Systems (LMSes)**.
 🤝 Open to collaborating on MERN stack, Next.js, and AI-powered solutions.<br>
 🌱 Currently learning DevOps, cloud technologies, and AI-powered solutions with Langchain.<br>
 
@@ -43,25 +40,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=malekelkssas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=malekelkssas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=malekelkssas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=malekelkssas&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=malekelkssas&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=malekelkssas&icon=5&color=4)](https://visitcount.itsvg.in)
-
-<!--  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/malek.elkssas) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MalekElkssas) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/malekelkssas) -->
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
