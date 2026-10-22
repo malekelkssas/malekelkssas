@@ -13,10 +13,11 @@
 🏢 **Startup Builder** – I’ve helped launch and develop three startups and continue to support new ventures.<br>
 
 ## 🔓 Open Source:
-🐞 Bugs I hit in tools I use, traced to the root cause and fixed upstream ([full write-up](https://droppage.dev/p/Mnl17XTS8e)):<br>
+🐞 Bugs I hit in tools I use, traced to the root cause and fixed upstream:<br>
 ✅ **NestJS core**: [#17141](https://github.com/nestjs/nest/pull/17141), a DI bug where a controller and a provider in the same module got different instances. Merged by Kamil Myśliwiec.<br>
 ✅ **Ghostty + Limux** (Zig, Rust): [ghostty#1](https://github.com/bvolpato/ghostty/pull/1), [limux#199](https://github.com/am-will/limux/pull/199), [limux#204](https://github.com/am-will/limux/pull/204), keypad keys with Num Lock off.<br>
 ✅ **Vercel Labs scriptc**: co-authored commit [`0f50a7b`](https://github.com/vercel-labs/scriptc/commit/0f50a7be57ebb0efa1e745a291b268714b1ec3cf), shipped in v0.4.0.<br>
+🔗 [See each fix with its root cause, diff and maintainer review →](https://droppage.dev/p/Mnl17XTS8e)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-elkssas-003846227) 
