@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"><a href="https://droppage.dev/p/Mnl17XTS8e"><img src="assets/header.svg" alt="Malek M. Elkssas: full-stack TypeScript, I fix bugs upstream" width="100%"></a></p>
 
 # 💫 About Me:
 💻 Currently working as a **freelancer & part-timer**. <br>
@@ -13,10 +13,10 @@
 🏢 **Startup Builder** – I’ve helped launch and develop three startups and continue to support new ventures.<br>
 
 ## 🔓 Open Source:
-🐞 Bugs I hit in tools I use, traced to the root cause and fixed upstream:<br>
-✅ **NestJS core**: [#17141](https://github.com/nestjs/nest/pull/17141), a DI bug where a controller and a provider in the same module got different instances. Merged by Kamil Myśliwiec.<br>
-✅ **Ghostty + Limux** (Zig, Rust): [ghostty#1](https://github.com/bvolpato/ghostty/pull/1), [limux#199](https://github.com/am-will/limux/pull/199), [limux#204](https://github.com/am-will/limux/pull/204), keypad keys with Num Lock off.<br>
-✅ **Vercel Labs scriptc**: co-authored commit [`0f50a7b`](https://github.com/vercel-labs/scriptc/commit/0f50a7be57ebb0efa1e745a291b268714b1ec3cf), shipped in v0.4.0.<br>
+🐞 I trace bugs in the tools I use down to the root cause, then fix them upstream.<br>
+✅ **Merged into NestJS core by its creator.** A controller and a service in one module got two different instances of the same provider. [nestjs/nest#17141](https://github.com/nestjs/nest/pull/17141)<br>
+✅ **Shipped in Ghostty and Limux** (Zig, Rust). With Num Lock off, keypad keys lost their identity; fixed across three PRs. [ghostty#1](https://github.com/bvolpato/ghostty/pull/1) · [limux#199](https://github.com/am-will/limux/pull/199) · [limux#204](https://github.com/am-will/limux/pull/204)<br>
+✅ **Landed in Vercel Labs scriptc v0.4.0** as a co-authored commit, so Zod-style schemas compile to native code. [0f50a7b](https://github.com/vercel-labs/scriptc/commit/0f50a7be57ebb0efa1e745a291b268714b1ec3cf)<br>
 🔗 [See each fix with its root cause, diff and maintainer review →](https://droppage.dev/p/Mnl17XTS8e)<br>
 
 ## 🌐 Socials:
@@ -47,3 +47,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malekelkssas/malekelkssas/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malekelkssas/malekelkssas/output/snake-light.svg">
+  <img alt="Contribution graph eaten by a red snake" src="https://raw.githubusercontent.com/malekelkssas/malekelkssas/output/snake-dark.svg">
+</picture>
