@@ -1,5 +1,12 @@
 <p align="center"><a href="https://droppage.dev/p/Mnl17XTS8e"><img src="assets/header.svg" alt="Malek M. Elkssas: full-stack TypeScript, I fix bugs upstream" width="100%"></a></p>
 
+## 🔓 Open Source:
+🐞 I trace bugs in the tools I use down to the root cause, then fix them upstream.<br>
+✅ **Merged into NestJS core by its creator.** A controller and a service in one module got two different instances of the same provider. [nestjs/nest#17141](https://github.com/nestjs/nest/pull/17141)<br>
+✅ **Shipped in Ghostty and Limux** (Zig, Rust). With Num Lock off, keypad keys lost their identity; fixed across three PRs. [ghostty#1](https://github.com/bvolpato/ghostty/pull/1) · [limux#199](https://github.com/am-will/limux/pull/199) · [limux#204](https://github.com/am-will/limux/pull/204)<br>
+✅ **Landed in Vercel Labs scriptc v0.4.0** as a co-authored commit, so Zod-style schemas compile to native code. [0f50a7b](https://github.com/vercel-labs/scriptc/commit/0f50a7be57ebb0efa1e745a291b268714b1ec3cf)<br>
+🔗 [See each fix with its root cause, diff and maintainer review →](https://droppage.dev/p/Mnl17XTS8e)<br>
+
 # 💫 About Me:
 💻 Currently working as a **freelancer & part-timer**. <br>
 🚀 Currently building **AI-powered platforms** for automation and **integrations with Learning Management Systems (LMSes)**.
@@ -11,13 +18,6 @@
 ⚡ **Fast Learner & Adaptive** – I quickly adapt to new tech stacks, best practices, and project conventions.<br>
 🐞 **Bug Hunter** – Debugging is one of my strongest skills, allowing me to identify and resolve issues efficiently.<br>
 🏢 **Startup Builder** – I’ve helped launch and develop three startups and continue to support new ventures.<br>
-
-## 🔓 Open Source:
-🐞 I trace bugs in the tools I use down to the root cause, then fix them upstream.<br>
-✅ **Merged into NestJS core by its creator.** A controller and a service in one module got two different instances of the same provider. [nestjs/nest#17141](https://github.com/nestjs/nest/pull/17141)<br>
-✅ **Shipped in Ghostty and Limux** (Zig, Rust). With Num Lock off, keypad keys lost their identity; fixed across three PRs. [ghostty#1](https://github.com/bvolpato/ghostty/pull/1) · [limux#199](https://github.com/am-will/limux/pull/199) · [limux#204](https://github.com/am-will/limux/pull/204)<br>
-✅ **Landed in Vercel Labs scriptc v0.4.0** as a co-authored commit, so Zod-style schemas compile to native code. [0f50a7b](https://github.com/vercel-labs/scriptc/commit/0f50a7be57ebb0efa1e745a291b268714b1ec3cf)<br>
-🔗 [See each fix with its root cause, diff and maintainer review →](https://droppage.dev/p/Mnl17XTS8e)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malek-elkssas-003846227) 
