@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [.github/workflows/snake.yml]
+    paths: [.github/workflows/snake.yml, .github/scripts/snake-mix.py]
 
 permissions:
   contents: write
@@ -16,12 +16,18 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-dark.svg?palette=github-dark&color_snake=#d42a3c&color_dots=#161212,#4a0d15,#7a1422,#b51f33,#ff8090
+            dist/snake-dark.svg?palette=github-dark&color_snake=#d42a3c&color_dots=#161b22,#4a0d15,#7a1422,#b51f33,#ff8090
             dist/snake-light.svg?palette=github-light&color_snake=#d42a3c&color_dots=#ebedf0,#f7c9cf,#ec8796,#d42a3c,#8f1424
+      # the year as a gradient: red, amber, violet, cyan across the board, the snake in the same four colours
+      - run: |
+          sudo chown -R "$(id -u)" dist
+          python3 .github/scripts/snake-mix.py dist/snake-dark.svg dist/snake-dark.svg "#161b22" "#d42a3c,#f5a524,#8b5cf6,#22d3ee"
+          python3 .github/scripts/snake-mix.py dist/snake-light.svg dist/snake-light.svg "#ebedf0" "#d42a3c,#e8901a,#7c4ddb,#0fa5c4"
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
