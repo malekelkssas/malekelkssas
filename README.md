@@ -8,9 +8,11 @@
 🔗 [See each fix with its root cause, diff and maintainer review →](https://droppage.dev/p/Mnl17XTS8e)<br>
 
 ## 🧩 Client Work:
+<!--
 <a href="https://droppage.dev/p/HHA0YreRYp"><img src="assets/deepmarks.gif" alt="deepmarks: six AI writers name a startup at once, then a critic ranks the round" width="100%"></a>
 
 🏷️ **[deepmarks](https://droppage.dev/p/HHA0YreRYp)**: an AI naming agent for startups. One sentence in, ranked names out, with domains checked and buyable in place. LangGraph agents in Python behind a gRPC stream, six writers at once, a critic, brand stories, Stripe and Name.com, OpenTelemetry. [deepmarks.ai](https://deepmarks.ai)<br>
+-->
 🔒 More client work (marketplaces, field service, video platforms) lives in private repos; case studies follow as clients approve them.<br>
 
 # 💫 About Me:
